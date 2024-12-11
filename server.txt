@@ -1,8 +1,8 @@
-Unsupported:
-launch6o7p.creepercloud.io:26503
+PVP:
+launch6o7p.creepercloud.io:25907
 
 
-Same:
+Same: survival chill smp
 dono-04.danbot.host:1366
 most-christian.joinmc.link
 194.ip.ply.gg:34336
