@@ -1,2 +1,12 @@
+Unsupported:
 launch6o7p.creepercloud.io:26503
+
+
+Same:
 dono-04.danbot.host:1366
+write-textiles.gl.at.ply.gg:58178
+23.ip.gl.ply.gg:58178
+most-christian.joinmc.link
+194.ip.ply.gg:34336
+22.ip.gl.ply.gg:59657
+songs-equations.gl.joinmc.link
